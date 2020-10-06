@@ -29,7 +29,7 @@ What actually happened after you performed the above steps? Include screenshots,
 * Etc
 
 **Client Impact**
-<!-- Describe how this affects League of Legends players. Please include the frequency and severity of the issue. -->
+<!-- Describe how this affects "Start Up Name" clients. Please include the frequency and severity of the issue. -->
 * Frequency: Every time the user visits the site, they experiennce this issue. Once every ~100 visits this issue occurs.
 * Severity: When this bug happens, a user is unable to use my site. I have 200 visits to my site each day, so it affects 50% of site visits.
 * Quantity: There are ~1k people that experience this issue.
@@ -48,4 +48,4 @@ What actually happened after you performed the above steps? Include screenshots,
 
 **Issue Comments**
 <!-- Might want to leave this as instructions for any replies to your issue -->
-If you're also experiencing this issue please add any additional context that is useful, the developer impact to yourself, and the player impact to your users. As an example, if spectator-v4 isn't working it might affect a scouting site, but it could also affect a mobile app or site to share replays. Give the context on how this issue affects your project.
+If you're also experiencing this issue please add any additional context that is useful, the developer impact to yourself, and the client impact to your users. As an example, if spectator-v4 isn't working it might affect a scouting site, but it could also affect a mobile app or site to share replays. Give the context on how this issue affects your project.

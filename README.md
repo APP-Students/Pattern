@@ -1,13 +1,13 @@
 #
 
-# App Students Developer Relations Repo
+# "Start Up Name" Developer Relations Repo
 
-Welcome to the App Students Developer Relations repo. The purpose of this repo is exclusively bug reporting for tools in the App Students Developer Ecosystem.
+Welcome to the "Start Up Name" Developer Relations repo. The purpose of this repo is exclusively bug reporting for tools in the "Start Up Name" Developer Ecosystem.
 
 Everything else can be found at the following links:
 
-- App Students Developer Portal: []()
-- App Students DevRel Homepage: []()
+- "Start Up Name" Developer Portal: []()
+- "Start Up Name" DevRel Homepage: []()
 - Twitter: []()
 - Discord: []()
 
@@ -15,13 +15,13 @@ Everything else can be found at the following links:
 
 # Issue Reporting Guidelines
 
-The App Students Developer Relations team wants to address all issues in a timely manner and will inform the responsible teams of issues their products/services have. However, we cannot guarantee that issues will be resolved.
+The "Start Up Name" Developer Relations team wants to address all issues in a timely manner and will inform the responsible teams of issues their products/services have. However, we cannot guarantee that issues will be resolved.
 
 Before creating an issue, please do the following:
 
 - Check the [Developer Documentation]() to make sure the behavior you are reporting is really a bug, not a feature.
 - Check the [existing issues]() to make sure you are not duplicating somebody&#39;s work.
-- Verify that the issue you are about to report relates to the App Students Developer Ecosystem and is not a system bug (for game bugs please go [here]()).
+- Verify that the issue you are about to report relates to the "Start Up Name" Developer Ecosystem and is not a system bug (for game bugs please go [here]()).
 
 If you&#39;re sure that the problem you&#39;re experiencing is caused by a bug, follow the recommendations below to file a new issue in a Github issue tracker.
 
